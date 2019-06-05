@@ -88,5 +88,6 @@ theme: hexo-theme-next-7.1.2
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/llwf/llwf.github.io.git
-  branch: master
+  repo: 
+    github: https://github.com/llwf/llwf.github.io.git,master
+    coding: https://git.dev.tencent.com/sunmonday/hexo_blog.git,master
